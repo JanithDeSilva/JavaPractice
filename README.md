@@ -1,0 +1,2 @@
+# JavaPractice
+Practicing basic java
